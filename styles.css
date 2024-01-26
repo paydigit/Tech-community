@@ -1,0 +1,72 @@
+.container_1 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.background_image {
+    background: url("./Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 336px 598px 490px 152px;
+}
+
+body {
+    background: rgb(27, 27, 27);
+}
+.old {
+    margin-top: 500px;
+}
+
+button:hover {
+    background-color: #ff0000;
+}
+
+.text_overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 46.29px;
+}
+
+.welcome_title {
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 82px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.welcome_welcome {
+    color: #ffffff;
+    font-family: inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.join_discord {
+    width: 50%;
+    align-self: flex-start;
+    padding: 17.358px 31.824px;
+    border-radius: 11px;
+    background: #ffffff;
+    color: black;
+    font-family: Haettenschweiler;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container {
+    display: flex;
+    flex-direction:row;
+    background: #ffffff;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
